@@ -18,6 +18,41 @@
 <p>Welcome to my page! </br> I'm Loi Nguyen, BackEnd developer from <img src="./images/vietnam" width="20"/> <b>Ho Chi Minh, Viet Nam</b>, currently living in <img src="./images/vietnam" width="20"/> <b>Go Vap</b>. 
 </p>
 
+```ruby
+ class Sy < Person
+   def initialize
+     @name = 'Loi Nguyen'
+     @age = 28
+     @education = [
+        {
+            name: 'Ho Chi Minh City University of Technology and Education',
+            GPA: 7.0
+        },
+        {
+            name: 'VNUHCM - University of Information Technology',
+            GPA: 8.5
+        },
+     @hobbies = ['Reading', 'Music', 'Coding']
+   end
+
+   def current_location
+     'Ward 3, District 2, City of Ho Chi Minh'
+   end
+
+   def born_locations
+     ['Dong Thap province']
+   end
+
+   def works
+     {
+       tech: ['Ruby On Rails', 'ReactJs', 'HTML', 'CSS'],
+       reading: [ 'Rails AntiPatterns', 'Deep Work' ],
+       tinkering: [ 'Google Pay', 'Apple Wallet', 'Pen Testing' ]
+      }
+   end
+ end
+```
+
 <h3>Things I code with:</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -36,6 +71,25 @@
 <p>
 I post something about Rails and Web Development which are my experiences. These may help beginners. Interest in <a href="https://rails-blog.online/" target="_blank">Rails Blog</a>.
 </p>
+
+This is the place where I opensource stuff and break things :rofl:
+
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning Flutter, Go
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
+- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
+- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+
+📕 &nbsp;**Latest Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+
+- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
+- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
+- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
+- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
+- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+<!-- BLOG-POST-LIST:END -->
 
 Some numbers for the Wechaty project:
 
