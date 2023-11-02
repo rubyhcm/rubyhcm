@@ -34,7 +34,7 @@
 
 <h3>My Blog</h3>
 <p>
-I post something about Rails and Web Development which are my experiences. These may help beginners. Interest in <a href="rails-blog.online">Rails Blog</a>.
+I post something about Rails and Web Development which are my experiences. These may help beginners. Interest in <a href="https://rails-blog.online/" target="_blank">Rails Blog</a>.
 </p>
 
 Some numbers for the Wechaty project:
