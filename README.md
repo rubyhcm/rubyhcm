@@ -34,8 +34,14 @@
 
 <h3>My Blog</h3>
 <p>
-I post something about Rails and Web Development which are my experiences. These may help beginners. Interest in <a href="https://rails-blog.online/" target="_blank">Rails Blog</a>.
+I post something about Rails and Web Development which are my experiences. These may help beginners. Interest in <a href="javascript:void(0);" onclick="openInNewTab('rails-blog.online')">Rails Blog</a>.
 </p>
+
+<script>
+function openInNewTab(url) {
+  window.open(url, '_blank');
+}
+</script>
 
 Some numbers for the Wechaty project:
 
