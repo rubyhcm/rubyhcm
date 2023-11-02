@@ -1,18 +1,38 @@
-👋 Hi, I am Loi Nguyen (Ruby HCM)
+<p align="center">
+  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/rubyhcm"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/rubyhcm"><img width="32px" alt="Dev.to" title="rubyhcm Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+</p>
+<br/>
 
-[![Ruby](https://i.ytimg.com/vi/amiqq0V6wEc/maxresdefault.jpg)](https://wechaty.js.org)
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<div align="center">
+<p>Welcome to my page! </br> I'm Loi Nguyen, BackEnd developer from <img src="./images/vietnam" width="20"/> <b>Ho Chi Minh, Viet Nam</b>, currently living in <img src="./images/vietnam" width="20"/> <b>Go Vap</b>. 
+</p>
 
-[![Gitter](https://badges.gitter.im/wechaty/wechaty.svg)](https://gitter.im/wechaty/wechaty?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-blue.svg)](https://www.typescriptlang.org/)
-[![ES Modules](https://img.shields.io/badge/ES-Modules-orange)](https://github.com/Chatie/tsconfig/issues/16)
-[![NPM Version](https://img.shields.io/npm/v/wechaty?color=brightgreen)](https://www.npmjs.com/package/wechaty)
-[![Downloads](https://img.shields.io/npm/dm/wechaty.svg?style=flat-square)](https://www.npmjs.com/package/wechaty)
-[![Docker Pulls](https://img.shields.io/docker/pulls/wechaty/wechaty.svg?maxAge=2592000)](https://hub.docker.com/r/wechaty/wechaty/)
-[![GitHub stars](https://img.shields.io/github/stars/wechaty/wechaty.svg?label=github%20stars)](https://github.com/wechaty/wechaty)
+<h3>Things I code with:</h3>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
-</div>
+
 
 Loi Nguyen is the creator and core developer of [Wechaty](https://wechaty.js.org) [![Wechaty GitHub Stars](https://img.shields.io/github/stars/wechaty/wechaty.svg?style=social&label=)](https://github.com/wechaty/wechaty/stargazers/). Wechaty is a Conversational RPA SDK for chatbot makers. With only six lines of code, you can create a bot on the most popular IMs like [WeChat](https://wechaty.js.org/docs/puppet-providers/xp/), [Whatsapp](https://wechaty.js.org/docs/puppet-providers/whatsapp/), [WeCom](https://wechaty.js.org/docs/puppet-services/wxwork/), [Gitter](https://wechaty.js.org/docs/puppet-providers/gitter/), [QQ](https://wechaty.js.org/docs/puppet-providers/oicq/), [etc.](https://wechaty.js.org/docs/puppet-providers)
 
@@ -143,4 +163,3 @@ Below are his contributions ([PRs](https://github.com/pulls?q=is%3Apr+author%3Ah
 - ©️ <https://github.com/Submersible/node-python-bridge> - Node.js to Python bridge sparklessnakerocketsparkles ([PR](https://github.com/Submersible/node-python-bridge/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/freshworks/fresh-samples> - Samples of code created by freshdesk ([PR](https://github.com/freshworks/fresh-samples/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/hongaar/bandersnatch> - curly_loop Simple Node.js CLI / REPL framework written in TypeScript ([PR](https://github.com/hongaar/bandersnatch/pulls?q=is%3Apr+author%3Ahuan))
-
