@@ -70,11 +70,17 @@ I post something about Rails and Web Development which are my experiences. These
   &nbsp;
   <img alt="CircleCI" src="https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" />
   &nbsp;
+  <img alt="Namecheap" src="https://img.shields.io/badge/-Namecheap-DE0C92?style=flat-square&logo=namecheap&logoColor=white" />
+  &nbsp;
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   &nbsp;
   <img alt="Render" src="https://img.shields.io/badge/-Render-007BFF?style=flat-square&logo=render&logoColor=white" />
   &nbsp;
   <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+  &nbsp;
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  &nbsp;
+  <img alt="Sidekiq" src="https://img.shields.io/badge/-Sidekiq-51B749?style=flat-square&logo=sidekiq&logoColor=white" />
   &nbsp;
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   &nbsp;
@@ -98,6 +104,8 @@ I post something about Rails and Web Development which are my experiences. These
   &nbsp;
   <img alt="RVM" src="https://img.shields.io/badge/-RVM-CC0000?style=flat-square&logo=ruby&logoColor=white" /> 
   &nbsp;
+  <img alt="MeiliSearch" src="https://img.shields.io/badge/-MeiliSearch-6B46C1?style=flat-square&logo=meilisearch&logoColor=white" />
+
 </p>
 
 ## 📖 What I am currently learning / improving on
@@ -113,6 +121,8 @@ I post something about Rails and Web Development which are my experiences. These
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   &nbsp;
   <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
+  &nbsp;
+  <img alt="Ghost Inspector" src="https://img.shields.io/badge/-Ghost_Inspector-16214D?style=flat-square&logo=ghostinspector&logoColor=white" />
   &nbsp;
 </p>
 <!-- <div style="display: flex; align-items: center;">
@@ -138,6 +148,6 @@ This is the place where I opensource stuff and break things :rofl:
   https://www.betterspecs.org/
 
   https://rails.rubystyle.guide/
-  
+
   https://awesome-ruby.com/
 </p>
