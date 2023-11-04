@@ -136,7 +136,9 @@ I post something about Rails and Web Development which are my experiences. These
 
 ## 📕 Somethings I did
 
-- 👨‍💻 My Blog: [rails-blog.online](https://www.gautamkrishnar.com/#portfolio)
+- 👨‍💻 My Blog: [rails-blog.online](https://rails-blog.online/) 
+- 👨‍💻 Dev Finding: [devfinding.com](https://devfinding.com/)
+- 👨‍💻 Others at: [my repos](https://github.com/rubyhcm?tab=repositories)
 
 ## 🛠 Somethings make us better
 
