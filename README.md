@@ -68,6 +68,8 @@ I post something about Rails and Web Development which are my experiences. These
   &nbsp;
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   &nbsp;
+  <img alt="CircleCI" src="https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" />
+  &nbsp;
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   &nbsp;
   <img alt="Render" src="https://img.shields.io/badge/-Render-007BFF?style=flat-square&logo=render&logoColor=white" />
@@ -125,3 +127,17 @@ This is the place where I opensource stuff and break things :rofl:
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
 - 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+
+## 🛠 Somethings make us better
+
+<p>
+  https://studio.asyncapi.com/
+
+  https://microservices.io/
+
+  https://www.betterspecs.org/
+
+  https://rails.rubystyle.guide/
+  
+  https://awesome-ruby.com/
+</p>
