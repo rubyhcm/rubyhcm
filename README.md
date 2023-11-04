@@ -4,6 +4,9 @@
 <p>
 </br> I'm Loi Nguyen, BackEnd developer from <img src="./images/vietnam" width="20"/> <b>Ho Chi Minh, Viet Nam</b>, currently living in <img src="./images/vietnam" width="20"/> <b>Go Vap</b>. 
 </p>
+<p>
+I post something about Rails and Web Development which are my experiences. These may help beginners. Interest in <a href="https://rails-blog.online/" target="_blank">Rails Blog</a>.
+</p>
 
 ```ruby
  class Loi < Person
@@ -56,11 +59,9 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
-## 📕 My Blog
 
-<p>
-I post something about Rails and Web Development which are my experiences. These may help beginners. Interest in <a href="https://rails-blog.online/" target="_blank">Rails Blog</a>.
-</p>
+
+
 
 ## 🛠 Technologies and tools
 
@@ -106,3 +107,5 @@ This is the place where I opensource stuff and break things :rofl:
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
 - 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+
+<!-- ## 📕 My Blog -->
