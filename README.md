@@ -136,18 +136,12 @@ I post something about Rails and Web Development which are my experiences. These
 
 ## 📕 Somethings I did
 
-This is the place where I opensource stuff and break things :rofl:
-
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Flutter, Go
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+- 👨‍💻 My Blog: [rails-blog.online](https://www.gautamkrishnar.com/#portfolio)
 
 ## 🛠 Somethings make us better
 
-- Asynapi: https://studio.asyncapi.com/
-- Microservices: https://microservices.io/
-- Better specs: https://www.betterspecs.org/
-- Ruby style: https://rails.rubystyle.guide/
-- Awesome ruby: https://awesome-ruby.com/
+- ⚡ Asynapi: [studio.asyncapi.com](https://studio.asyncapi.com/)
+- ⚡ Microservices: [microservices.io](https://microservices.io/)
+- ⚡ Better specs: [betterspecs.org](https://www.betterspecs.org/)
+- ⚡ Ruby style: [rails.rubystyle.guide](https://rails.rubystyle.guide/)
+- ⚡ Awesome ruby: [awesome-ruby.com](https://awesome-ruby.com/)
