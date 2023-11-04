@@ -82,6 +82,12 @@ I post something about Rails and Web Development which are my experiences. These
   &nbsp;
   <img alt="Sidekiq" src="https://img.shields.io/badge/-Sidekiq-51B749?style=flat-square&logo=sidekiq&logoColor=white" />
   &nbsp;
+  <img alt="MVC" src="https://img.shields.io/badge/-MVC-0095D5?style=flat-square&logo=microsoft&logoColor=white" />
+  &nbsp;
+  <img alt="REST API" src="https://img.shields.io/badge/-REST_API-009688?style=flat-square&logo=rest&logoColor=white" />
+  &nbsp;
+  <img alt="Grape API" src="https://img.shields.io/badge/-Grape_API-6A0572?style=flat-square&logo=grape&logoColor=white" />
+  &nbsp;
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   &nbsp;
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
@@ -140,14 +146,8 @@ This is the place where I opensource stuff and break things :rofl:
 
 ## 🛠 Somethings make us better
 
-<p>
-  https://studio.asyncapi.com/
-
-  https://microservices.io/
-
-  https://www.betterspecs.org/
-
-  https://rails.rubystyle.guide/
-
-  https://awesome-ruby.com/
-</p>
+- Asynapi: https://studio.asyncapi.com/
+- Microservices: https://microservices.io/
+- Better specs: https://www.betterspecs.org/
+- Ruby style: https://rails.rubystyle.guide/
+- Awesome ruby: https://awesome-ruby.com/
