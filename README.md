@@ -2,7 +2,7 @@
 
 <p>Welcome to my page!</p>
 <p>
-</br> I'm Loi Nguyen, BackEnd developer from <img src="./images/vietnam" width="20"/> <b>Ho Chi Minh, Viet Nam</b>, currently living in <img src="./images/vietnam" width="20"/> <b>Go Vap</b>. 
+  I'm Loi Nguyen, BackEnd developer from <img src="./images/vietnam" width="20"/> <b>Ho Chi Minh, Viet Nam</b>, currently living in <img src="./images/vietnam" width="20"/> <b>Go Vap</b>. 
 </p>
 <p>
 I post something about Rails and Web Development which are my experiences. These may help beginners. Interest in <a href="https://rails-blog.online/" target="_blank">Rails Blog</a>.
@@ -10,9 +10,11 @@ I post something about Rails and Web Development which are my experiences. These
 
 ```ruby
  class Loi < Person
+
    def initialize
-     @name = 'Loi Nguyen'
-     @age = 28
+     @name  = 'Loi Nguyen'
+     @age   = 28
+     @email = 'phucloi.dev@gmail.com'
      @education = [
         {
             name: 'Ho Chi Minh City University of Technology and Education',
@@ -22,7 +24,7 @@ I post something about Rails and Web Development which are my experiences. These
             name: 'VNUHCM - University of Information Technology',
             GPA: 8.5
         },
-     @hobbies = ['Reading', 'Music', 'Coding']
+     @hobbies   = ['Reading', 'Music', 'Coding']
    end
 
    def current_location
@@ -35,12 +37,13 @@ I post something about Rails and Web Development which are my experiences. These
 
    def works
      {
-       backend: ['Ruby On Rails'],
-       frontend: ['ReactJs', 'HTML', 'CSS'],
+       backend:    ['Ruby On Rails'],
+       frontend:   ['ReactJs', 'HTML', 'CSS'],
        deployment: ['Render', 'Google Cloud'],
-       system: ['Ubuntu', 'Windows']
+       system:     ['Ubuntu', 'Windows']
       }
    end
+   
  end
 ```
 
