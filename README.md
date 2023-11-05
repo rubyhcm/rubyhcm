@@ -113,13 +113,20 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
   &nbsp;
   <img alt="RVM" src="https://img.shields.io/badge/-RVM-CC0000?style=flat-square&logo=ruby&logoColor=white" /> 
   &nbsp;
-  <img alt="MeiliSearch" src="https://img.shields.io/badge/-MeiliSearch-6B46C1?style=flat-square&logo=meilisearch&logoColor=white" />
-
 </p>
 
 ## 🛠 Third-party
 
-
+<a name="learning-next"></a>
+<p>
+  <img alt="Zoho Mail" src="https://img.shields.io/badge/-Zoho_Mail-EA4335?style=flat-square&logo=zoho&logoColor=white" />
+  &nbsp;
+  <img alt="SendGrid Mail" src="https://img.shields.io/badge/-SendGrid_Mail-3B5998?style=flat-square&logo=sendgrid&logoColor=white" />
+  &nbsp;
+  <img alt="Brevo" src="https://img.shields.io/badge/-Brevo-3333FF?style=flat-square&logo=brevo&logoColor=white" />
+  &nbsp;
+  <img alt="MeiliSearch" src="https://img.shields.io/badge/-MeiliSearch-6B46C1?style=flat-square&logo=meilisearch&logoColor=white" />
+</p>
 
 
 ## 📖 What I am currently learning / improving on
