@@ -7,6 +7,9 @@
 <p>
 I post something about Rails and Web Development which are my experiences. These may help beginners. Interest in <a href="https://rails-blog.online/" target="_blank">Rails Blog</a>.
 </p>
+<p>
+Please click to see <a href= "" target="_blank">my full information</a> if you are interested. 
+</p>
 
 ```ruby
  class Loi < Person
@@ -113,6 +116,11 @@ I post something about Rails and Web Development which are my experiences. These
   <img alt="MeiliSearch" src="https://img.shields.io/badge/-MeiliSearch-6B46C1?style=flat-square&logo=meilisearch&logoColor=white" />
 
 </p>
+
+## 🛠 Third-party
+
+
+
 
 ## 📖 What I am currently learning / improving on
 
