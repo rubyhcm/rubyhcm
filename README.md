@@ -120,6 +120,9 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
   <img alt="Brevo" src="https://img.shields.io/badge/-Brevo-3333FF?style=flat-square&logo=brevo&logoColor=white" />
   &nbsp;
   <img alt="MeiliSearch" src="https://img.shields.io/badge/-MeiliSearch-6B46C1?style=flat-square&logo=meilisearch&logoColor=white" />
+  &nbsp;
+  <img alt="Postmark" src="https://img.shields.io/badge/-Postmark-4A667B?style=flat-square&logo=postmark&logoColor=white" />
+
 </p>
 
 ## 📖 What I am currently learning / improving on
@@ -152,6 +155,7 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
 
 - ⚡ Asynapi: [studio.asyncapi.com](https://studio.asyncapi.com/)
 - ⚡ Microservices: [microservices.io](https://microservices.io/)
-- ⚡ Better specs: [betterspecs.org](https://www.betterspecs.org/)
-- ⚡ Ruby style: [rails.rubystyle.guide](https://rails.rubystyle.guide/)
-- ⚡ Awesome ruby: [awesome-ruby.com](https://awesome-ruby.com/)
+- ⚡ Better Specs: [betterspecs.org](https://www.betterspecs.org/)
+- ⚡ Ruby Style: [rails.rubystyle.guide](https://rails.rubystyle.guide/)
+- ⚡ Awesome Ruby: [awesome-ruby.com](https://awesome-ruby.com/)
+- ⚡ Rails SQL Injection: [rails-sqli.org](https://rails-sqli.org/)
