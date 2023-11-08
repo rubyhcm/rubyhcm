@@ -52,6 +52,9 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
 ## 🛠 Technologies and tools
 
 <a name="learning-now"></a>
+
+#### 🛠 Techs
+
 <p>
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white" />
   &nbsp;
@@ -66,18 +69,6 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   &nbsp;
   <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />  
-  &nbsp;
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  &nbsp;
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  &nbsp;
-  <img alt="CircleCI" src="https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" />
-  &nbsp;
-  <img alt="Namecheap" src="https://img.shields.io/badge/-Namecheap-DE0C92?style=flat-square&logo=namecheap&logoColor=white" />
-  &nbsp;
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  &nbsp;
-  <img alt="Render" src="https://img.shields.io/badge/-Render-007BFF?style=flat-square&logo=render&logoColor=white" />
   &nbsp;
   <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
   &nbsp;
@@ -125,6 +116,27 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
 
 </p>
 
+#### 🛠 Deployments
+
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  &nbsp;
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  &nbsp;
+  <img alt="CircleCI" src="https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" />
+  &nbsp;
+  <img alt="Namecheap" src="https://img.shields.io/badge/-Namecheap-DE0C92?style=flat-square&logo=namecheap&logoColor=white" />
+  &nbsp;
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  &nbsp;
+  <img alt="Render" src="https://img.shields.io/badge/-Render-007BFF?style=flat-square&logo=render&logoColor=white" />
+  &nbsp;
+  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  &nbsp;
+  <img alt="Puma" src="https://img.shields.io/badge/-Puma-FFD43B?style=flat-square&logo=puma&logoColor=222222" />
+</p>
+
+
 ## 📖 What I am currently learning / improving on
 
 <a name="learning-next"></a>
@@ -158,4 +170,4 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
 - ⚡ Better Specs: [betterspecs.org](https://www.betterspecs.org/)
 - ⚡ Ruby Style: [rails.rubystyle.guide](https://rails.rubystyle.guide/)
 - ⚡ Awesome Ruby: [awesome-ruby.com](https://awesome-ruby.com/)
-- ⚡ Rails SQL Injection: [rails-sqli.org](https://rails-sqli.org/)
+- ⚡ Rails SQL Injection: [rails-sqli.org](https://rails-sqli.org/)&nbsp;[rorsecurity.info](https://rorsecurity.info/)
