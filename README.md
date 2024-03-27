@@ -43,7 +43,7 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
 
    def works
      {
-       backend:    ['Ruby On Rails'],
+       backend:    ['Ruby On Rails', 'NestJS'],
        frontend:   ['Vuejs', 'React', 'HTML', 'CSS'],
        deployment: ['Render', 'Google Cloud', 'AWS'],
        system:     ['Ubuntu', 'Windows']
