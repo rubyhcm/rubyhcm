@@ -15,18 +15,21 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
  class Loi < Person
 
    def initialize
-     @name  = 'Loi Nguyen'
-     @age   = 28
+     @name = 'Loi Nguyen'
+     @birthday = 1995
      @email = 'phucloi.dev@gmail.com'
      @education = [
         {
-            name: 'Ho Chi Minh City University of Technology and Education',
-            GPA: 7.0
+          name: 'Ho Chi Minh City University of Technology and Education',
+          GPA: 7.0
         },
         {
-            name: 'VNUHCM - University of Information Technology',
-            GPA: 8.5
+          name: 'VNUHCM - University of Information Technology',
+          GPA: 8.5
         },
+        {
+          English: B2
+        }
      @hobbies   = ['Reading', 'Music', 'Coding']
    end
 
@@ -35,14 +38,14 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
    end
 
    def born_locations
-     ['Dong Thap province']
+     'Dong Thap province'
    end
 
    def works
      {
        backend:    ['Ruby On Rails'],
-       frontend:   ['ReactJs', 'HTML', 'CSS'],
-       deployment: ['Render', 'Google Cloud'],
+       frontend:   ['Vuejs', 'React', 'HTML', 'CSS'],
+       deployment: ['Render', 'Google Cloud', 'AWS'],
        system:     ['Ubuntu', 'Windows']
       }
    end
@@ -60,7 +63,11 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
   &nbsp;
   <img alt="RSpec" src="https://img.shields.io/badge/-RSpec-DC343B?style=flat-square&logo=ruby&logoColor=white" />
   &nbsp;
+  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  &nbsp;
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  &nbsp;
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
   &nbsp;
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   &nbsp;
@@ -129,17 +136,20 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
   &nbsp;
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   &nbsp;
+  <img alt="Amazon Web Services (AWS)" src="https://img.shields.io/badge/-Amazon_Web_Services_(AWS)-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  &nbsp;
   <img alt="Render" src="https://img.shields.io/badge/-Render-007BFF?style=flat-square&logo=render&logoColor=white" />
   &nbsp;
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
   &nbsp;
   <img alt="Puma" src="https://img.shields.io/badge/-Puma-FFD43B?style=flat-square&logo=puma&logoColor=222222" />
-</p>
 
+</p>
 
 ## 📖 What I am currently learning / improving on
 
 <a name="learning-next"></a>
+
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   &nbsp;
@@ -147,7 +157,7 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
   &nbsp;
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
   &nbsp;
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Amazon Web Services (AWS)" src="https://img.shields.io/badge/-Amazon_Web_Services_(AWS)-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   &nbsp;
   <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
   &nbsp;
@@ -159,8 +169,9 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
 
 ## 📕 Somethings I did
 
-- 👨‍💻 My Blog: [rails-blog.online](https://rails-blog.online/) 
+- 👨‍💻 My Blog: [rails-blog.online](https://rails-blog.online/)
 - 👨‍💻 Dev Finding: [devfinding.com](https://devfinding.com/)
+- 👨‍💻 Full Demo: [Demo repo](https://github.com/rubyhcm/zero_to_hero)
 - 👨‍💻 Others at: [my repos](https://github.com/rubyhcm?tab=repositories)
 
 ## 🛠 Somethings make us better
