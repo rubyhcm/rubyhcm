@@ -48,10 +48,10 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
        backend:    ['Ruby On Rails', 'NestJS'],
        database:   ['MySQL', 'PostgreSQL', 'Redis', 'Firebase', 'Kafka'],
        deployment: ['Render', 'CircleCI', 'GitHub Actions'],
-       system:     ['Ubuntu', 'Windows'],
-       control:    ['Git', 'Github', 'Gitlab', 'Jira', 'Slack' ],
        AWS:        ['DynamoDB', 'RDS', 'AuroraDB', 'S3', 'CloudFormation', 'Codebuild', 'CodePipeline', 'IAM', 'EC2'],
        GCP:        ['VM instance'],
+       system:     ['Ubuntu', 'Windows'],
+       control:    ['Git', 'Github', 'Gitlab', 'Jira', 'Slack' ],
        others:     ['Sidekiq', 'Elasticsearch', 'Unit Test', 'Docker', 'Terraform', 'Sentry', 'Swagger', 'CRM']
       }
    end
