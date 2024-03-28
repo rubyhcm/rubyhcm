@@ -38,7 +38,7 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
      '3 Ward, Go Vap District, Ho Chi Minh City'
    end
 
-   def born_locations
+   def born_location
      'Dong Thap Province'
    end
 
