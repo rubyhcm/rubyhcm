@@ -28,7 +28,7 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
           GPA: 8.5
         },
         {
-          name: 'English'
+          name: 'English',
           GPA: 'B2'
         }
      @hobbies = ['Reading', 'Music', 'Coding']
