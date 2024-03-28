@@ -28,8 +28,8 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
           GPA: 8.5
         },
         {
-          name: English
-          GPA: B2
+          name: 'English'
+          GPA: 'B2'
         }
      @hobbies = ['Reading', 'Music', 'Coding']
    end
@@ -51,7 +51,7 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
        system:     ['Ubuntu', 'Windows'],
        control:    ['Git', 'Github', 'Gitlab', 'Jira', 'Slack' ],
        AWS:        ['DynamoDB', 'RDS', 'AuroraDB', 'S3', 'CloudFormation', 'Codebuild', 'CodePipeline', 'IAM', 'EC2'],
-       GCP:        ['VM instance']
+       GCP:        ['VM instance'],
        others:     ['Sidekiq', 'Elasticsearch', 'Unit Test', 'Docker', 'Terraform', 'Sentry', 'Swagger', 'CRM']
       }
    end
