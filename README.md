@@ -55,6 +55,10 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
        others:     ['Sidekiq', 'Elasticsearch', 'Unit Test', 'Docker', 'Terraform', 'Sentry', 'Swagger', 'CRM']
       }
    end
+
+   def myloves
+     'BackEnd with Ruby on rails'
+   end
  end
 ```
 
