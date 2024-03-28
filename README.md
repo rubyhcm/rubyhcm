@@ -18,7 +18,7 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
      @name = 'Loi Nguyen'
      @birthday = 1995
      @email = 'phucloi.dev@gmail.com'
-     @education = [
+     @educations = [
         {
           name: 'Ho Chi Minh City University of Technology and Education',
           GPA: 7.0
@@ -28,25 +28,31 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
           GPA: 8.5
         },
         {
-          English: B2
+          name: English
+          GPA: B2
         }
-     @hobbies   = ['Reading', 'Music', 'Coding']
+     @hobbies = ['Reading', 'Music', 'Coding']
    end
 
    def current_location
-     'Ward 3, District Go Vap, City of Ho Chi Minh'
+     '3 Ward, Go Vap District, Ho Chi Minh City'
    end
 
    def born_locations
-     'Dong Thap province'
+     'Dong Thap Province'
    end
 
-   def works
+   def skills
      {
+       frontend:   ['Vuejs', 'Tailwind CSS', 'Bootstrap', 'JQuery', 'Stimulus'],
        backend:    ['Ruby On Rails', 'NestJS'],
-       frontend:   ['Vuejs', 'React', 'HTML', 'CSS'],
-       deployment: ['Render', 'Google Cloud', 'AWS'],
-       system:     ['Ubuntu', 'Windows']
+       database:   ['MySQL', 'PostgreSQL', 'Redis', 'Firebase', 'Kafka'],
+       deployment: ['Render', 'CircleCI', 'GitHub Actions'],
+       system:     ['Ubuntu', 'Windows'],
+       control:    ['Git', 'Github', 'Gitlab', 'Jira', 'Slack' ],
+       AWS:        ['DynamoDB', 'RDS', 'AuroraDB', 'S3', 'CloudFormation', 'Codebuild', 'CodePipeline', 'IAM', 'EC2'],
+       GCP:        ['VM instance']
+       others:     ['Sidekiq', 'Elasticsearch', 'Unit Test', 'Docker', 'Terraform', 'Sentry', 'Swagger', 'CRM']
       }
    end
  end
@@ -65,15 +71,7 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
   &nbsp;
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
   &nbsp;
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  &nbsp;
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  &nbsp;
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  &nbsp;
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  &nbsp;
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   &nbsp;
   <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />  
   &nbsp;
@@ -89,27 +87,9 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
   &nbsp;
   <img alt="Grape API" src="https://img.shields.io/badge/-Grape_API-6A0572?style=flat-square&logo=grape&logoColor=white" />
   &nbsp;
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  &nbsp;
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  &nbsp;
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  &nbsp;
-  <img alt="RubyMine" src="https://img.shields.io/badge/-RubyMine-735185?style=flat-square&logo=rubymine&logoColor=white" />
-  &nbsp;
-  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  &nbsp;
   <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white" />
   &nbsp;
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  &nbsp;
-  <img alt="ClickUp" src="https://img.shields.io/badge/-ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" />
-  &nbsp;
-  <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  &nbsp;
-  <img alt="NVM" src="https://img.shields.io/badge/-NVM-8CC84B?style=flat-square&logo=nvm&logoColor=white" />
-  &nbsp;
-  <img alt="RVM" src="https://img.shields.io/badge/-RVM-CC0000?style=flat-square&logo=ruby&logoColor=white" /> 
   &nbsp;
   <img alt="Zoho Mail" src="https://img.shields.io/badge/-Zoho_Mail-EA4335?style=flat-square&logo=zoho&logoColor=white" />
   &nbsp;
