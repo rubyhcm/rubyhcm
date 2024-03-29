@@ -48,7 +48,7 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
        backend:    ['Ruby On Rails', 'NestJS'],
        database:   ['MySQL', 'PostgreSQL', 'Redis', 'Firebase', 'Kafka'],
        deployment: ['Render', 'CircleCI', 'GitHub Actions'],
-       AWS:        ['DynamoDB', 'RDS', 'AuroraDB', 'S3', 'CloudFormation', 'Codebuild', 'CodePipeline', 'IAM', 'EC2'],
+       AWS:        ['DynamoDB', 'RDS', 'AuroraDB', 'S3', 'CloudFormation', 'Codebuild', 'CodePipeline', 'IAM', 'EC2', 'SES'],
        GCP:        ['VM instance'],
        system:     ['Ubuntu', 'Windows'],
        control:    ['Git', 'Github', 'Gitlab', 'Jira', 'Slack' ],
