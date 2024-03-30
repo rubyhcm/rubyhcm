@@ -58,8 +58,11 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
       }
    end
 
-   def myloves
-     'BackEnd with Ruby on rails'
+   def main_stack
+     {
+       backend: 'Ruby On Rails',
+       database: 'MySQL', 'PostgreSQL'
+     }
    end
  end
 ```
