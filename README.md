@@ -47,7 +47,7 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
        frontend:   ['Vuejs', 'Tailwind CSS', 'Bootstrap', 'JQuery', 'Stimulus'],
        backend:    ['Ruby On Rails', 'NestJS'],
        database:   ['MySQL', 'PostgreSQL', 'Redis', 'Firebase', 'Kafka'],
-       deployment: ['Render', 'CircleCI', 'GitHub Actions'],
+       deployment: ['Render', 'CircleCI', 'GitHub Actions', 'Rancher'],
        AWS:        ['DynamoDB', 'RDS', 'AuroraDB', 'S3', 'CloudFormation', 'Codebuild',
                     'CodePipeline', 'IAM', 'EC2', 'SES'],
        GCP:        ['VM instance'],
