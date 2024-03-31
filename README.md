@@ -54,7 +54,7 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
        system:     ['Ubuntu', 'Windows'],
        control:    ['Git', 'Github', 'Gitlab', 'Jira', 'Slack' ],
        others:     ['Sidekiq', 'Elasticsearch', 'Unit Test', 'Docker', 'Terraform',
-                    'Sentry', 'Swagger', 'CRM']
+                    'Sentry', 'Swagger', 'CRM (Brevo)']
       }
    end
 
