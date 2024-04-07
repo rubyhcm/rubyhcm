@@ -45,7 +45,7 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
    def skills
      {
        frontend:   ['Vuejs', 'Tailwind CSS', 'Bootstrap', 'JQuery', 'Stimulus'],
-       backend:    ['Ruby On Rails', 'NestJS'],
+       backend:    ['Ruby On Rails'],
        database:   ['MySQL', 'PostgreSQL', 'Redis', 'Firebase', 'Kafka'],
        deployment: ['Render', 'CircleCI', 'GitHub Actions', 'Rancher'],
        AWS:        ['DynamoDB', 'RDS', 'AuroraDB', 'S3', 'CloudFormation', 'Codebuild',
@@ -77,8 +77,6 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white" />
   &nbsp;
   <img alt="RSpec" src="https://img.shields.io/badge/-RSpec-DC343B?style=flat-square&logo=ruby&logoColor=white" />
-  &nbsp;
-  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
   &nbsp;
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
   &nbsp;
