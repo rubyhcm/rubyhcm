@@ -44,7 +44,7 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
 
    def skills
      {
-       frontend:   ['Vuejs', 'Tailwind CSS', 'Bootstrap', 'JQuery', 'Stimulus'],
+       frontend:   ['Vuejs', 'Tailwind CSS', 'JQuery', 'Stimulus'],
        backend:    ['Ruby On Rails', 'Nestjs'],
        database:   ['MySQL', 'PostgreSQL', 'Redis', 'Firebase', 'Kafka'],
        deployment: ['GitLab CI/CD', 'CircleCI', 'GitHub Actions', 'Rancher'],
@@ -166,5 +166,5 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
 - ⚡ Better Specs: [betterspecs.org](https://www.betterspecs.org/)
 - ⚡ Ruby Style: [rails.rubystyle.guide](https://rails.rubystyle.guide/)
 - ⚡ Awesome Ruby: [awesome-ruby.com](https://awesome-ruby.com/)
-- ⚡ Rails SQL Injection: [rails-sqli.org](https://rails-sqli.org/)&nbsp;[rorsecurity.info](https://rorsecurity.info/)\
+- ⚡ Rails SQL Injection: [rails-sqli.org](https://rails-sqli.org/)&nbsp;[rorsecurity.info](https://rorsecurity.info/)
 - ⚡ Conventional Commits: [conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/)
