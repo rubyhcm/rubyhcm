@@ -45,16 +45,14 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
    def skills
      {
        frontend:   ['Vuejs', 'Tailwind CSS', 'Bootstrap', 'JQuery', 'Stimulus'],
-       backend:    ['Ruby On Rails'],
+       backend:    ['Ruby On Rails', 'Nestjs'],
        database:   ['MySQL', 'PostgreSQL', 'Redis', 'Firebase', 'Kafka'],
-       deployment: ['Render', 'CircleCI', 'GitHub Actions', 'Rancher'],
+       deployment: ['GitLab CI/CD', 'CircleCI', 'GitHub Actions', 'Rancher'],
        AWS:        ['DynamoDB', 'RDS', 'AuroraDB', 'S3', 'CloudFormation', 'Codebuild',
                     'CodePipeline', 'IAM', 'EC2', 'SES'],
        GCP:        ['VM instance'],
-       system:     ['Ubuntu', 'Windows'],
-       control:    ['Git', 'Github', 'Gitlab', 'Jira', 'Slack' ],
-       others:     ['Sidekiq', 'Elasticsearch', 'Unit Test', 'Docker', 'Terraform',
-                    'Sentry', 'Swagger', 'CRM (Brevo)']
+       others:     ['Sidekiq', 'Elasticsearch', 'Unit Test', 'Docker', 'Sentry', 
+                    'Swagger', 'CRM (Brevo)']
       }
    end
 
@@ -168,4 +166,5 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
 - ⚡ Better Specs: [betterspecs.org](https://www.betterspecs.org/)
 - ⚡ Ruby Style: [rails.rubystyle.guide](https://rails.rubystyle.guide/)
 - ⚡ Awesome Ruby: [awesome-ruby.com](https://awesome-ruby.com/)
-- ⚡ Rails SQL Injection: [rails-sqli.org](https://rails-sqli.org/)&nbsp;[rorsecurity.info](https://rorsecurity.info/)
+- ⚡ Rails SQL Injection: [rails-sqli.org](https://rails-sqli.org/)&nbsp;[rorsecurity.info](https://rorsecurity.info/)\
+- ⚡ Conventional Commits: [conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/)
