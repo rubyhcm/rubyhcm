@@ -38,20 +38,16 @@ Please click to see <a href= "" target="_blank">my full information</a> if you a
      '3 Ward, Go Vap District, Ho Chi Minh City'
    end
 
-   def born_location
-     'Dong Thap Province'
-   end
-
    def skills
      {
        frontend:   ['Vuejs', 'Tailwind CSS', 'JQuery', 'Stimulus'],
        backend:    ['Ruby On Rails', 'Nestjs'],
        database:   ['MySQL', 'PostgreSQL', 'Redis', 'Firebase', 'Kafka'],
        deployment: ['GitLab CI/CD', 'CircleCI', 'GitHub Actions', 'Rancher'],
-       AWS:        ['DynamoDB', 'RDS', 'AuroraDB', 'S3', 'CloudFormation', 'Codebuild',
+       aws:        ['DynamoDB', 'RDS', 'AuroraDB', 'S3', 'CloudFormation', 'Codebuild',
                     'CodePipeline', 'IAM', 'EC2', 'SES'],
-       GCP:        ['VM instance'],
-       others:     ['Sidekiq', 'Elasticsearch', 'Unit Test', 'Docker', 'Sentry', 
+       gcp:        ['VM instance'],
+       others:     ['Sidekiq', 'Elasticsearch', 'Unit Test', 'Docker', 'Sentry',
                     'Swagger', 'CRM (Brevo)']
       }
    end
