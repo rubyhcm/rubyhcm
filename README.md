@@ -134,59 +134,85 @@
   &nbsp;
   <img alt="RSpec" src="https://img.shields.io/badge/-RSpec-DC343B?style=flat-square&logo=ruby&logoColor=white" />
   &nbsp;
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  &nbsp;
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
   &nbsp;
-  <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />  
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   &nbsp;
-  <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  &nbsp;
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   &nbsp;
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   &nbsp;
+  <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />  
+  &nbsp;
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  &nbsp;
   <img alt="Sidekiq" src="https://img.shields.io/badge/-Sidekiq-51B749?style=flat-square&logo=sidekiq&logoColor=white" />
+  &nbsp;
+  <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+  &nbsp;
+  <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
   &nbsp;
   <img alt="MVC" src="https://img.shields.io/badge/-MVC-0095D5?style=flat-square&logo=microsoft&logoColor=white" />
   &nbsp;
   <img alt="REST API" src="https://img.shields.io/badge/-REST_API-009688?style=flat-square&logo=rest&logoColor=white" />
-  &nbsp;
-  <img alt="Grape API" src="https://img.shields.io/badge/-Grape_API-6A0572?style=flat-square&logo=grape&logoColor=white" />
-  &nbsp;
-  <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white" />
-  &nbsp;
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  &nbsp;
-  <img alt="Zoho Mail" src="https://img.shields.io/badge/-Zoho_Mail-EA4335?style=flat-square&logo=zoho&logoColor=white" />
-  &nbsp;
-  <img alt="SendGrid Mail" src="https://img.shields.io/badge/-SendGrid_Mail-3B5998?style=flat-square&logo=sendgrid&logoColor=white" />
-  &nbsp;
-  <img alt="Brevo" src="https://img.shields.io/badge/-Brevo-3333FF?style=flat-square&logo=brevo&logoColor=white" />
-  &nbsp;
-  <img alt="MeiliSearch" src="https://img.shields.io/badge/-MeiliSearch-6B46C1?style=flat-square&logo=meilisearch&logoColor=white" />
-  &nbsp;
-  <img alt="Postmark" src="https://img.shields.io/badge/-Postmark-4A667B?style=flat-square&logo=postmark&logoColor=white" />
-
 </p>
 
-#### 🛠 Deployments
+#### 🛠 Deployments & DevOps
 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   &nbsp;
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="GitLab CI/CD" src="https://img.shields.io/badge/-GitLab_CI/CD-FCA121?style=flat-square&logo=gitlab&logoColor=white" />
+  &nbsp;
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   &nbsp;
   <img alt="CircleCI" src="https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" />
   &nbsp;
-  <img alt="Namecheap" src="https://img.shields.io/badge/-Namecheap-DE0C92?style=flat-square&logo=namecheap&logoColor=white" />
+  <img alt="Rancher" src="https://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white" />
   &nbsp;
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+#### 🛠 Cloud Services
+
+<p>
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   &nbsp;
-  <img alt="Amazon Web Services (AWS)" src="https://img.shields.io/badge/-Amazon_Web_Services_(AWS)-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="DynamoDB" src="https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white" />
+  &nbsp;
+  <img alt="RDS" src="https://img.shields.io/badge/-RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white" />
+  &nbsp;
+  <img alt="S3" src="https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
+  &nbsp;
+  <img alt="EC2" src="https://img.shields.io/badge/-EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" />
+  &nbsp;
+  <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   &nbsp;
   <img alt="Render" src="https://img.shields.io/badge/-Render-007BFF?style=flat-square&logo=render&logoColor=white" />
   &nbsp;
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
   &nbsp;
   <img alt="Puma" src="https://img.shields.io/badge/-Puma-FFD43B?style=flat-square&logo=puma&logoColor=222222" />
+</p>
 
+#### 🛠 Third-party Services
+
+<p>
+  <img alt="Ory" src="https://img.shields.io/badge/-Ory_Suite-FF4F64?style=flat-square&logo=ory&logoColor=white" />
+  &nbsp;
+  <img alt="SendGrid" src="https://img.shields.io/badge/-SendGrid-1A82E2?style=flat-square&logo=sendgrid&logoColor=white" />
+  &nbsp;
+  <img alt="Brevo" src="https://img.shields.io/badge/-Brevo-3333FF?style=flat-square&logo=brevo&logoColor=white" />
+  &nbsp;
+  <img alt="MeiliSearch" src="https://img.shields.io/badge/-MeiliSearch-6B46C1?style=flat-square&logo=meilisearch&logoColor=white" />
+  &nbsp;
+  <img alt="Postmark" src="https://img.shields.io/badge/-Postmark-4A667B?style=flat-square&logo=postmark&logoColor=white" />
+  &nbsp;
+  <img alt="Sentry" src="https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
 </p>
 
 ## 📖 What I am currently learning / improving on
@@ -200,11 +226,7 @@
   &nbsp;
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
   &nbsp;
-  <img alt="Amazon Web Services (AWS)" src="https://img.shields.io/badge/-Amazon_Web_Services_(AWS)-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  &nbsp;
   <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
-  &nbsp;
-  <img alt="Ghost Inspector" src="https://img.shields.io/badge/-Ghost_Inspector-16214D?style=flat-square&logo=ghostinspector&logoColor=white" />
   &nbsp;
 </p>
 <!-- <div style="display: flex; align-items: center;">
