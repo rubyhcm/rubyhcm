@@ -231,20 +231,83 @@
 </p>
 <!-- <div style="display: flex; align-items: center;">
 </div> -->
-
-## 📕 Somethings I did
-
-- 👨‍💻 My Blog: [rails-blog.online](https://rails-blog.online/)
-- 👨‍💻 Dev Finding: [devfinding.com](https://devfinding.com/)
-- 👨‍💻 Full Demo: [Demo repo](https://github.com/rubyhcm/zero_to_hero)
-- 👨‍💻 Others at: [my repos](https://github.com/rubyhcm?tab=repositories)
-
 ## 🛠 Somethings make us better
 
-- ⚡ Asynapi: [studio.asyncapi.com](https://studio.asyncapi.com/)
-- ⚡ Microservices: [microservices.io](https://microservices.io/)
-- ⚡ Better Specs: [betterspecs.org](https://www.betterspecs.org/)
-- ⚡ Ruby Style: [rails.rubystyle.guide](https://rails.rubystyle.guide/)
-- ⚡ Awesome Ruby: [awesome-ruby.com](https://awesome-ruby.com/)
-- ⚡ Rails SQL Injection: [rails-sqli.org](https://rails-sqli.org/)&nbsp;[rorsecurity.info](https://rorsecurity.info/)
-- ⚡ Conventional Commits: [conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/)
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="10" style="border-collapse: separate; border-spacing: 0 10px;">
+    <tr>
+      <td width="50%" align="center" style="background-color: #f8f9fa; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+        <h4>⚡ Rails Resources</h4>
+        <ul align="left" style="list-style-type: none; padding-left: 0;">
+          <li>🚂 <a href="https://guides.rubyonrails.org/">Rails Guides</a> - Official Rails documentation</li>
+          <li>🔍 <a href="https://awesome-ruby.com/">Awesome Ruby</a> - Curated list of Ruby libraries</li>
+          <li>✅ <a href="https://www.betterspecs.org/">Better Specs</a> - RSpec best practices</li>
+          <li>📝 <a href="https://rails.rubystyle.guide/">Ruby Style Guide</a> - Community-driven Ruby coding standards</li>
+          <li>🔒 <a href="https://rails-sqli.org/">Rails SQL Injection</a> - Security guidelines</li>
+          <li>🛡️ <a href="https://rorsecurity.info/">RoR Security</a> - Rails security best practices</li>
+          <li>📚 <a href="https://thoughtbot.com/upcase">Upcase by Thoughtbot</a> - Ruby/Rails learning resources</li>
+        </ul>
+      </td>
+      <td width="50%" align="center" style="background-color: #f8f9fa; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+        <h4>⚡ System Architecture</h4>
+        <ul align="left" style="list-style-type: none; padding-left: 0;">
+          <li>🏗️ <a href="https://microservices.io/">Microservices.io</a> - Patterns for distributed systems</li>
+          <li>📘 <a href="https://studio.asyncapi.com/">AsyncAPI</a> - Design event-driven architectures</li>
+          <li>📝 <a href="https://12factor.net/">The Twelve-Factor App</a> - Methodology for SaaS apps</li>
+          <li>🔄 <a href="https://www.martinfowler.com/articles/microservices.html">Microservices Guide</a> - Martin Fowler's definitive article</li>
+          <li>🧩 <a href="https://docs.microsoft.com/en-us/azure/architecture/patterns/">Cloud Design Patterns</a> - Solutions for common challenges</li>
+          <li>📊 <a href="https://www.dataintensive.net/">Designing Data-Intensive Applications</a> - Systems architecture book</li>
+          <li>🔍 <a href="https://refactoring.guru/design-patterns">Design Patterns</a> - Solutions to common problems</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" style="background-color: #f8f9fa; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+        <h4>⚡ Go Resources</h4>
+        <ul align="left" style="list-style-type: none; padding-left: 0;">
+          <li>🔷 <a href="https://go.dev/doc/effective_go">Effective Go</a> - Writing clear, idiomatic Go code</li>
+          <li>📚 <a href="https://github.com/avelino/awesome-go">Awesome Go</a> - Curated list of Go frameworks and libraries</li>
+          <li>🧪 <a href="https://pkg.go.dev/testing">Go Testing</a> - Standard library testing package</li>
+          <li>🔌 <a href="https://github.com/gin-gonic/gin">Gin Web Framework</a> - High-performance HTTP web framework</li>
+          <li>📘 <a href="https://gobyexample.com/">Go by Example</a> - Hands-on introduction to Go</li>
+          <li>🔄 <a href="https://go.dev/blog/concurrency-is-not-parallelism">Concurrency in Go</a> - Understanding Go's concurrency model</li>
+        </ul>
+      </td>
+      <td width="50%" align="center" style="background-color: #f8f9fa; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+        <h4>⚡ Vue.js 3 Resources</h4>
+        <ul align="left" style="list-style-type: none; padding-left: 0;">
+          <li>💚 <a href="https://vuejs.org/guide/introduction.html">Vue 3 Guide</a> - Official documentation</li>
+          <li>🧩 <a href="https://pinia.vuejs.org/">Pinia</a> - State management for Vue 3</li>
+          <li>🔄 <a href="https://router.vuejs.org/">Vue Router</a> - Official router for Vue.js</li>
+          <li>⚡ <a href="https://vitejs.dev/">Vite</a> - Next generation frontend tooling</li>
+          <li>🧪 <a href="https://test-utils.vuejs.org/">Vue Test Utils</a> - Official testing utilities</li>
+          <li>🎨 <a href="https://tailwindcss.com/docs/guides/vite#vue">Tailwind + Vue</a> - Using Tailwind with Vue</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" style="background-color: #f8f9fa; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+        <h4>⚡ DevOps Resources</h4>
+        <ul align="left" style="list-style-type: none; padding-left: 0;">
+          <li>🐳 <a href="https://docs.docker.com/compose/">Docker Compose</a> - Define multi-container applications</li>
+          <li>☸️ <a href="https://kubernetes.io/docs/home/">Kubernetes</a> - Container orchestration</li>
+          <li>🔄 <a href="https://www.terraform.io/docs">Terraform</a> - Infrastructure as code</li>
+          <li>📊 <a href="https://prometheus.io/docs/introduction/overview/">Prometheus</a> - Monitoring and alerting</li>
+          <li>📝 <a href="https://www.conventionalcommits.org/en/v1.0.0/">Conventional Commits</a> - Commit message standards</li>
+          <li>🔄 <a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow">Gitflow Workflow</a> - Branching model for Git</li>
+        </ul>
+      </td>
+      <td width="50%" align="center" style="background-color: #f8f9fa; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+        <h4>⚡ Security & Best Practices</h4>
+        <ul align="left" style="list-style-type: none; padding-left: 0;">
+          <li>🔐 <a href="https://owasp.org/www-project-top-ten/">OWASP Top 10</a> - Web application security risks</li>
+          <li>🧪 <a href="https://martinfowler.com/articles/practical-test-pyramid.html">Test Pyramid</a> - A balanced test strategy</li>
+          <li>🔍 <a href="https://semver.org/">Semantic Versioning</a> - Version numbering standard</li>
+          <li>📝 <a href="https://keepachangelog.com/en/1.0.0/">Keep a Changelog</a> - Maintaining a good changelog</li>
+          <li>🛡️ <a href="https://cheatsheetseries.owasp.org/">OWASP Cheat Sheets</a> - Security implementation guides</li>
+          <li>🔒 <a href="https://jwt.io/introduction">JWT Auth</a> - JSON Web Token authentication</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
