@@ -1,15 +1,49 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<div align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="100"/>
+  <h1>Hey there! I'm Loi Nguyen</h1>
+  <p><em>Backend Developer with a passion for elegant solutions</em></p>
+  
+  <p>
+    <a href="https://www.phucloi.dev/"><img src="https://img.shields.io/badge/Blog-phucloi.dev-FF4088?style=for-the-badge&logo=hugo&logoColor=white" /></a>
+    <a href="https://info.phucloi.dev/"><img src="https://img.shields.io/badge/Profile-info.phucloi.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  </p>
+  
+  <img src="./images/vietnam" width="20"/> <b>Ho Chi Minh City, Vietnam</b>
+</div>
 
-<p>Welcome to my page!</p>
-<p>
-  I'm Loi Nguyen, BackEnd developer from <img src="./images/vietnam" width="20"/> <b>Ho Chi Minh, Viet Nam</b>, currently living in <img src="./images/vietnam" width="20"/> <b>Go Vap</b>. 
+<div align="center">
+  <h3>✨ Welcome to my Developer Universe! ✨</h3>
+</div>
+
+<p align="center">
+  <em>Where code meets creativity and problems find their solutions</em>
 </p>
-<p>
-I post something about Rails and Web Development which are my experiences. These may help beginners. Interest in <a href="https://rails-blog.online/" target="_blank">Rails Blog</a>.
-</p>
-<p>
-Please click to see <a href= "" target="_blank">my full information</a> if you are interested. 
-</p>
+
+<br>
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="10" style="border-collapse: separate; border-spacing: 0 15px;">
+    <tr>
+      <td width="50%" align="center" style="background-color: #f5f5f5; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+        <h3>🚀 What I Share Here</h3>
+        <ul align="left" style="list-style-type: none; padding-left: 0;">
+          <li>📊 <b>Practical web development</b> insights from real-world projects</li>
+          <li>🧭 <b>Beginner-friendly guides</b> to navigate the tech landscape</li>
+          <li>🛠️ <b>Technical solutions</b> to common Ruby on Rails and Go challenges</li>
+          <li>✅ <b>Best practices</b> I've learned along my development journey</li>
+        </ul>
+      </td>
+      <td width="50%" align="center" style="background-color: #f5f5f5; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+        <h3>💡 My Philosophy</h3>
+        <p align="left"><b>I believe in:</b></p>
+        <p align="left">✨ <b>Clean code</b> that speaks for itself</p>
+        <p align="left">🏗️ <b>Thoughtful architecture</b> that scales</p>
+        <p align="left">🔄 <b>Continuous learning</b> as a lifestyle</p>
+        <p align="left">🌱 Every line of code should solve a problem elegantly while being maintainable for the future.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ```ruby
  class Loi < Person
