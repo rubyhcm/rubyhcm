@@ -46,26 +46,17 @@
 </div>
 
 ```ruby
- class Loi < Person
-
+ class Loi < Developer
    def initialize
-     @name = 'Loi Nguyen'
-     @birthday = 1995
-     @email = 'phucloi.dev@gmail.com'
+     @name       = 'Loi Nguyen'
+     @birthday   = 1995
+     @email      = 'phucloi.dev@gmail.com'
      @educations = [
-        {
-          name: 'Ho Chi Minh City University of Technology and Education',
-          GPA: 7.0
-        },
-        {
-          name: 'VNUHCM - University of Information Technology',
-          GPA: 8.5
-        },
-        {
-          name: 'English',
-          GPA: 'B2'
-        }
-     @hobbies = ['Reading', 'Music', 'Coding']
+       { name: 'Ho Chi Minh City University of Technology and Education', GPA: 7.0 },
+       { name: 'VNUHCM - University of Information Technology', GPA: 8.5 },
+       { name: 'English', level: 'B2' }
+     ]
+     @hobbies    = ['Reading', 'Music', 'Coding']
    end
 
    def current_location
@@ -74,22 +65,59 @@
 
    def skills
      {
-       frontend:   ['Vuejs', 'Tailwind CSS', 'JQuery', 'Stimulus'],
-       backend:    ['Ruby On Rails', 'Nestjs'],
-       database:   ['MySQL', 'PostgreSQL', 'Redis', 'Firebase', 'Kafka'],
-       deployment: ['GitLab CI/CD', 'CircleCI', 'GitHub Actions', 'Rancher'],
-       aws:        ['DynamoDB', 'RDS', 'AuroraDB', 'S3', 'CloudFormation', 'Codebuild',
-                    'CodePipeline', 'IAM', 'EC2', 'SES'],
-       gcp:        ['VM instance'],
-       others:     ['Sidekiq', 'Elasticsearch', 'Unit Test', 'Docker', 'Sentry',
-                    'Swagger', 'CRM (Brevo)']
-      }
+       # Frontend Technologies
+       frontend: [
+         'Vue.js', 'Tailwind CSS'
+       ],
+
+       # Backend Technologies
+       backend: [
+         'Ruby On Rails', 'Go'
+       ],
+
+       # Database Technologies
+       database: {
+         relational: ['MySQL', 'PostgreSQL'],
+         nosql: ['Redis', 'Firebase'],
+         messaging: ['Kafka', 'RabbitMQ']
+       },
+
+       # Deployment & CI/CD
+       deployment: [
+         'GitLab CI/CD', 'CircleCI',
+         'GitHub Actions', 'Rancher'
+       ],
+
+       # AWS Services
+       aws: [
+         'DynamoDB', 'RDS', 'AuroraDB', 'S3',
+         'CloudFormation', 'Codebuild', 'CodePipeline',
+         'IAM', 'EC2', 'SES'
+       ],
+
+       # Google Cloud Platform
+       gcp: [
+         'VM instance', 'Cloud Storage'
+       ],
+
+       # Third-party Services
+       third_party: [
+         'Ory Hydra', 'Ory Kratos',
+         'Ory Oathkeeper', 'Ory Keto'
+       ],
+
+       # Other Tools & Technologies
+       others: [
+         'Sidekiq', 'Elasticsearch', 'Unit Test',
+         'Docker', 'Sentry', 'Swagger', 'CRM (Brevo)'
+       ]
+     }
    end
 
    def main_stack
      {
-       backend: 'Ruby On Rails',
-       database: 'MySQL', 'PostgreSQL'
+       backend: ['Ruby On Rails', 'Go'],
+       database: ['MySQL', 'PostgreSQL']
      }
    end
  end
