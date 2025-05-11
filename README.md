@@ -3,10 +3,8 @@
   <h1>Hey there! I'm Loi Nguyen</h1>
   <p><em>Backend Developer with a passion for elegant solutions</em></p>
   
-  <p>
-    <a href="https://www.phucloi.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Blog-phucloi.dev-FF4088?style=for-the-badge&logo=hugo&logoColor=white" /></a>
-    <a href="https://profile.phucloi.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Profile-profile.phucloi.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  </p>
+  [![Blog](https://img.shields.io/badge/Blog-phucloi.dev-FF4088?style=for-the-badge&logo=hugo&logoColor=white)](https://www.phucloi.dev/)
+  [![Profile](https://img.shields.io/badge/Profile-profile.phucloi.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://profile.phucloi.dev/)
   
   <img src="./images/vietnam" width="20"/> <b>Ho Chi Minh City, Vietnam</b>
 </div>
