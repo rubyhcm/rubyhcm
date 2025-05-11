@@ -5,7 +5,7 @@
   
   <p>
     <a href="https://www.phucloi.dev/"><img src="https://img.shields.io/badge/Blog-phucloi.dev-FF4088?style=for-the-badge&logo=hugo&logoColor=white" /></a>
-    <a href="https://info.phucloi.dev/"><img src="https://img.shields.io/badge/Profile-info.phucloi.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="https://profile.phucloi.dev/"><img src="https://img.shields.io/badge/Profile-profile.phucloi.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   </p>
   
   <img src="./images/vietnam" width="20"/> <b>Ho Chi Minh City, Vietnam</b>
